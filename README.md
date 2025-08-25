@@ -2,7 +2,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artem_miracle)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.chepenkov@g.nsu.ru)
   
-- 🧑‍💻 My **Artem Chepenkov**  
+- 🧑‍💻 **Artem Chepenkov**  
 - 🎓 Studying at **Novosibirsk State University**, major in **Computer science and system design**  
 - 🔧 Focus: **Backend Development, Distributed Systems & DevOps**  
 
