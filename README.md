@@ -7,7 +7,7 @@
 - 🔧 Focus: **Backend Development, Distributed Systems & DevOps**  
 
 ### 🚀 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemChepenkov&repo=golang-crud-s3-storage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemChepenkov&repo=golang-crud-s3-storage&theme=tokyonight)](https://github.com/ArtemChepenkov/golang-crud-s3-storage)
 
 ### 🛠️ Programming languages and technologies
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
